@@ -1,0 +1,17 @@
+D:\Documents\4 éme\.NET\tp1_1\AirportManagement\AM.Data\bin\Debug\net8.0\AM.Data.deps.json
+D:\Documents\4 éme\.NET\tp1_1\AirportManagement\AM.Data\bin\Debug\net8.0\AM.Data.runtimeconfig.json
+D:\Documents\4 éme\.NET\tp1_1\AirportManagement\AM.Data\bin\Debug\net8.0\AM.Data.dll
+D:\Documents\4 éme\.NET\tp1_1\AirportManagement\AM.Data\bin\Debug\net8.0\AM.Data.pdb
+D:\Documents\4 éme\.NET\tp1_1\AirportManagement\AM.Data\bin\Debug\net8.0\AM.Core.Domain.dll
+D:\Documents\4 éme\.NET\tp1_1\AirportManagement\AM.Data\bin\Debug\net8.0\AM.Core.Domain.pdb
+D:\Documents\4 éme\.NET\tp1_1\AirportManagement\AM.Data\obj\Debug\net8.0\AM.Data.csproj.AssemblyReference.cache
+D:\Documents\4 éme\.NET\tp1_1\AirportManagement\AM.Data\obj\Debug\net8.0\AM.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\4 éme\.NET\tp1_1\AirportManagement\AM.Data\obj\Debug\net8.0\AM.Data.AssemblyInfoInputs.cache
+D:\Documents\4 éme\.NET\tp1_1\AirportManagement\AM.Data\obj\Debug\net8.0\AM.Data.AssemblyInfo.cs
+D:\Documents\4 éme\.NET\tp1_1\AirportManagement\AM.Data\obj\Debug\net8.0\AM.Data.csproj.CoreCompileInputs.cache
+D:\Documents\4 éme\.NET\tp1_1\AirportManagement\AM.Data\obj\Debug\net8.0\AM.Data.csproj.Up2Date
+D:\Documents\4 éme\.NET\tp1_1\AirportManagement\AM.Data\obj\Debug\net8.0\AM.Data.dll
+D:\Documents\4 éme\.NET\tp1_1\AirportManagement\AM.Data\obj\Debug\net8.0\refint\AM.Data.dll
+D:\Documents\4 éme\.NET\tp1_1\AirportManagement\AM.Data\obj\Debug\net8.0\AM.Data.pdb
+D:\Documents\4 éme\.NET\tp1_1\AirportManagement\AM.Data\obj\Debug\net8.0\AM.Data.genruntimeconfig.cache
+D:\Documents\4 éme\.NET\tp1_1\AirportManagement\AM.Data\obj\Debug\net8.0\ref\AM.Data.dll

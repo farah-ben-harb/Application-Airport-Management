@@ -1,0 +1,15 @@
+D:\Documents\4 éme\.NET\tp1_1\AirportManagement\AM.Core.Extensions\bin\Debug\net8.0\AM.Core.Extensions.deps.json
+D:\Documents\4 éme\.NET\tp1_1\AirportManagement\AM.Core.Extensions\bin\Debug\net8.0\AM.Core.Extensions.dll
+D:\Documents\4 éme\.NET\tp1_1\AirportManagement\AM.Core.Extensions\bin\Debug\net8.0\AM.Core.Extensions.pdb
+D:\Documents\4 éme\.NET\tp1_1\AirportManagement\AM.Core.Extensions\bin\Debug\net8.0\AM.Core.Domain.dll
+D:\Documents\4 éme\.NET\tp1_1\AirportManagement\AM.Core.Extensions\bin\Debug\net8.0\AM.Core.Domain.pdb
+D:\Documents\4 éme\.NET\tp1_1\AirportManagement\AM.Core.Extensions\obj\Debug\net8.0\AM.Core.Extensions.csproj.AssemblyReference.cache
+D:\Documents\4 éme\.NET\tp1_1\AirportManagement\AM.Core.Extensions\obj\Debug\net8.0\AM.Core.Extensions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\4 éme\.NET\tp1_1\AirportManagement\AM.Core.Extensions\obj\Debug\net8.0\AM.Core.Extensions.AssemblyInfoInputs.cache
+D:\Documents\4 éme\.NET\tp1_1\AirportManagement\AM.Core.Extensions\obj\Debug\net8.0\AM.Core.Extensions.AssemblyInfo.cs
+D:\Documents\4 éme\.NET\tp1_1\AirportManagement\AM.Core.Extensions\obj\Debug\net8.0\AM.Core.Extensions.csproj.CoreCompileInputs.cache
+D:\Documents\4 éme\.NET\tp1_1\AirportManagement\AM.Core.Extensions\obj\Debug\net8.0\AM.Core..71987D49.Up2Date
+D:\Documents\4 éme\.NET\tp1_1\AirportManagement\AM.Core.Extensions\obj\Debug\net8.0\AM.Core.Extensions.dll
+D:\Documents\4 éme\.NET\tp1_1\AirportManagement\AM.Core.Extensions\obj\Debug\net8.0\refint\AM.Core.Extensions.dll
+D:\Documents\4 éme\.NET\tp1_1\AirportManagement\AM.Core.Extensions\obj\Debug\net8.0\AM.Core.Extensions.pdb
+D:\Documents\4 éme\.NET\tp1_1\AirportManagement\AM.Core.Extensions\obj\Debug\net8.0\ref\AM.Core.Extensions.dll

@@ -1,0 +1,11 @@
+D:\Documents\4 éme\.NET\tp1_1\AirportManagement\AM.Core.Domain\bin\Debug\net8.0\AM.Core.Domain.deps.json
+D:\Documents\4 éme\.NET\tp1_1\AirportManagement\AM.Core.Domain\bin\Debug\net8.0\AM.Core.Domain.dll
+D:\Documents\4 éme\.NET\tp1_1\AirportManagement\AM.Core.Domain\bin\Debug\net8.0\AM.Core.Domain.pdb
+D:\Documents\4 éme\.NET\tp1_1\AirportManagement\AM.Core.Domain\obj\Debug\net8.0\AM.Core.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\4 éme\.NET\tp1_1\AirportManagement\AM.Core.Domain\obj\Debug\net8.0\AM.Core.Domain.AssemblyInfoInputs.cache
+D:\Documents\4 éme\.NET\tp1_1\AirportManagement\AM.Core.Domain\obj\Debug\net8.0\AM.Core.Domain.AssemblyInfo.cs
+D:\Documents\4 éme\.NET\tp1_1\AirportManagement\AM.Core.Domain\obj\Debug\net8.0\AM.Core.Domain.csproj.CoreCompileInputs.cache
+D:\Documents\4 éme\.NET\tp1_1\AirportManagement\AM.Core.Domain\obj\Debug\net8.0\AM.Core.Domain.dll
+D:\Documents\4 éme\.NET\tp1_1\AirportManagement\AM.Core.Domain\obj\Debug\net8.0\refint\AM.Core.Domain.dll
+D:\Documents\4 éme\.NET\tp1_1\AirportManagement\AM.Core.Domain\obj\Debug\net8.0\AM.Core.Domain.pdb
+D:\Documents\4 éme\.NET\tp1_1\AirportManagement\AM.Core.Domain\obj\Debug\net8.0\ref\AM.Core.Domain.dll

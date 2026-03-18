@@ -1,0 +1,15 @@
+D:\Documents\4 éme\.NET\tp1_1\AirportManagement\AM.Core.Services\bin\Debug\net8.0\AM.Core.Services.deps.json
+D:\Documents\4 éme\.NET\tp1_1\AirportManagement\AM.Core.Services\bin\Debug\net8.0\AM.Core.Services.dll
+D:\Documents\4 éme\.NET\tp1_1\AirportManagement\AM.Core.Services\bin\Debug\net8.0\AM.Core.Services.pdb
+D:\Documents\4 éme\.NET\tp1_1\AirportManagement\AM.Core.Services\bin\Debug\net8.0\AM.Core.Domain.dll
+D:\Documents\4 éme\.NET\tp1_1\AirportManagement\AM.Core.Services\bin\Debug\net8.0\AM.Core.Domain.pdb
+D:\Documents\4 éme\.NET\tp1_1\AirportManagement\AM.Core.Services\obj\Debug\net8.0\AM.Core.Services.csproj.AssemblyReference.cache
+D:\Documents\4 éme\.NET\tp1_1\AirportManagement\AM.Core.Services\obj\Debug\net8.0\AM.Core.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\4 éme\.NET\tp1_1\AirportManagement\AM.Core.Services\obj\Debug\net8.0\AM.Core.Services.AssemblyInfoInputs.cache
+D:\Documents\4 éme\.NET\tp1_1\AirportManagement\AM.Core.Services\obj\Debug\net8.0\AM.Core.Services.AssemblyInfo.cs
+D:\Documents\4 éme\.NET\tp1_1\AirportManagement\AM.Core.Services\obj\Debug\net8.0\AM.Core.Services.csproj.CoreCompileInputs.cache
+D:\Documents\4 éme\.NET\tp1_1\AirportManagement\AM.Core.Services\obj\Debug\net8.0\AM.Core..3E0FF464.Up2Date
+D:\Documents\4 éme\.NET\tp1_1\AirportManagement\AM.Core.Services\obj\Debug\net8.0\AM.Core.Services.dll
+D:\Documents\4 éme\.NET\tp1_1\AirportManagement\AM.Core.Services\obj\Debug\net8.0\refint\AM.Core.Services.dll
+D:\Documents\4 éme\.NET\tp1_1\AirportManagement\AM.Core.Services\obj\Debug\net8.0\AM.Core.Services.pdb
+D:\Documents\4 éme\.NET\tp1_1\AirportManagement\AM.Core.Services\obj\Debug\net8.0\ref\AM.Core.Services.dll
