@@ -1,114 +1,57 @@
-# Airport Management System (.NET)
+# Airport Management System
 
-## Project Overview
-This project is a complete .NET application for managing airport operations, designed using a layered architecture and object-oriented principles.
+This is a .NET application for managing airport operations using a layered architecture and object-oriented design.
 
-It handles core functionalities such as flight management, passenger management, and airport resources.
+## Overview
 
----
+The system covers core airport workflows such as:
 
-## Objectives
-- Apply object-oriented programming concepts
-- Design a scalable multi-layer architecture
-- Separate concerns between business logic, data access, and presentation
-- Build a maintainable and extensible system
-
----
+- flight management
+- passenger management
+- airport resources
+- operational coordination
 
 ## Architecture
 
-The project follows a multi-layer (n-tier) architecture:
+The project follows an n-tier architecture:
 
-- AM.UI.Console / AM.UI.Web  
-  Presentation layer (user interface)
+- `AM.UI.Console` presentation layer
+- `AM.Core.Domain` domain models and business entities
+- `AM.Core.Services` service layer
+- `AM.Core.Extensions` shared extensions and helpers
+- `AM.Data` data access layer
 
-- AM.Application  
-  Application layer (business logic, services)
+## Tech Stack
 
-- AM.Core.Domain  
-  Domain layer (entities, models, core logic)
-
-- AM.Infrastructure  
-  Data access layer (database, repositories)
-
-
----
-
-## Architecture Explanation
-
-- Presentation Layer:
-  Handles user interaction (console or web interface)
-
-- Application Layer:
-  Contains business rules, services, and use cases
-
-- Domain Layer:
-  Core entities and relationships (Plane, Flight, Passenger, etc.)
-
-- Infrastructure Layer:
-  Handles database operations and persistence
-
-
----
-
-## Domain Model
-
-Main entities:
-
-- Plane
-- Flight
-- Passenger
-- Traveller
-- Staff
-
-### Inheritance
-- Passenger is a base class
-- Traveller and Staff inherit from Passenger
-
-### Relationships
-- One Plane → Multiple Flights
-- One Flight → One Plane
-
----
-
-## Features Implemented
-
-- Full domain modeling based on UML
-- Multi-layer architecture
-- CRUD operations 
-- Object instantiation with different constructors
-- Navigation properties and relationships
-- ToString() override for all entities
-
----
-
-## Technologies Used
-
-- .NET / .NET Framework
 - C#
-- Entity Framework 
-- SQL Server 
+- .NET
+- Layered architecture
 
----
+## Repository Structure
 
-## Project Structure
+- `AirportManagement.sln` solution file
+- `AM.UI.Console/` presentation layer
+- `AM.Core.Domain/` domain entities
+- `AM.Core.Services/` application services
+- `AM.Core.Extensions/` utility extensions
+- `AM.Data/` persistence layer
 
-AM.UI.Console / AM.UI.Web  
-AM.Application  
-AM.Core.Domain  
-AM.Infrastructure  
+## Getting Started
 
----
+- Open the solution in Visual Studio or your preferred .NET IDE
+- Restore dependencies
+- Build the solution
+- Run the console or UI project
 
-## How to Run
+## Branching and Commits
 
-1. Open the solution in Visual Studio
-2. Configure the database (if applicable)
-3. Build the solution
-4. Run the application
+- Use branches such as `feat/<area>`, `fix/<area>`, `docs/<area>`, or `refactor/<area>`
+- Keep commits focused on one domain or service change
+- Prefer Conventional Commits such as `feat(airport): add flight scheduling flow`
+- Avoid vague messages like `update`, `final`, or `test`
 
----
+## Contributing
 
-## Notes
-
-This project demonstrates a complete implementation of a layered architecture in .NET with clean separation of concerns.
+- Keep concerns separated across layers
+- Update service contracts and data access together when needed
+- Avoid committing binaries or IDE-specific temporary files
